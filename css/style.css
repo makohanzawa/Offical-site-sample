@@ -1,0 +1,26 @@
+header{
+  margin-top: 30px;
+  color: rgb(42, 177, 230);
+}
+
+hr{
+  border-width:3px;
+  border-color: rgb(22, 121, 50);
+}
+h1{
+  font-size:18px;
+  font-weight: bold;
+  margin: 0;
+}
+.align-right{
+  text-align: right;
+}
+
+@media only screen and (max-width: 992px){
+
+  .radio-inline{
+    display: block;
+    margin: 0 !important;
+  }
+
+}
