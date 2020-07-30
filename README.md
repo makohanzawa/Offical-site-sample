@@ -1,2 +1,2 @@
 # Offical-site-sample
-to Introduce Album
+to introduce Album
